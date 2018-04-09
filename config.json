@@ -1,0 +1,21 @@
+{
+  "test": {
+    "account": {
+      "email": "john@doe.com",
+      "password": "12345"
+    }
+  },
+  "facebook": {
+    "url": "https://graph.facebook.com/v2.12/295469802058/locations?fields=location,hours,store_location_descriptor,phone&access_token=",
+    "token": "EAACEdEose0cBAPJ4FgtlqAL5PdPqDK3RLahKU31T0QbDnaz5sQOH2Iz86VxwLOlh6oGUamD8NZAhilTnNNo61rBluD6Y37MaXKhhtOcqlpRlEQuZATOgYjGwfQmiY299bgCMXocaOuR1uNggkr0yukOjVxoO6Dgmv47l23we3CmEqkINqV3zbengIlyks6ZC0tg7oeTIwZDZD"
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "repo": "https://github.com/co2-git/performads-hiring-challenge"
+}
